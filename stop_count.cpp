@@ -10,7 +10,6 @@ double stop_counting(double arr1[], int len)
 {
 	double curr_sum = arr1[0];
 	double max_avg = arr1[0];
-	double arr2[len];
 	for(int i=1;i<len;i++)
 	{
 		
